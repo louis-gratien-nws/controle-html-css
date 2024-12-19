@@ -153,6 +153,8 @@ body.dark-mode footer {
     justify-content: space-between;
     padding: 30px 250px;
     background-color: #F5F7FA;
+    padding-right: 300px;
+    padding-left: 300px;
 }
 
 .banniere-text h1 {
@@ -175,8 +177,8 @@ body.dark-mode footer {
 }
 
 .banniere-image img {
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     padding-left: 15%;
 }
 
@@ -221,6 +223,7 @@ body.dark-mode footer {
     font-size: 100%;
     margin-bottom: 10px;
     flex-grow: 2;
+    padding-right: 150px;
 }
 
 .section3 .banniere-image {
@@ -243,6 +246,7 @@ body.dark-mode footer {
     font-size: 100%;
     margin-bottom: 10px;
     flex-grow: 2;
+    padding-left: 150px;
 }
 
 .banniere-text span {
